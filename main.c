@@ -13,4 +13,6 @@ int main()
     printf("\nStlac ENTER na ukoncenie :)\n");
     getch();
     return 0;
+
+    //ahoj
 }
